@@ -1,7 +1,7 @@
-The New elementary.io
+The New xymbi.com
 ================
 
-A focused, minimum viable product (hence MVP) for a website that accompanied the release of elementary OS Freya. 
+A focused, minimally modern design for a website that accompanies the release of xyOS - Version 1.0. 
 
 Project Organization
 ====================
